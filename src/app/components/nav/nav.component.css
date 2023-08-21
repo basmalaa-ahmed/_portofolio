@@ -1,0 +1,15 @@
+a{
+    color: #fff;
+    font-size: 20px;
+    line-height: 30px;
+
+}
+a:hover{
+    color: #fff;
+}
+.nav-link{
+    color: rgb(155,149,151);
+}
+.nav-link:hover{
+    color: #fff;
+}

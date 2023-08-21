@@ -1,0 +1,18 @@
+.profile-info{
+    background-color:  rgb(55, 58, 61);
+    padding: 15px;
+}
+h3{
+    color: rgb(13,202,240);
+}
+li{
+    list-style: none;
+    padding: 10px;
+    text-align: justify;
+}
+i{
+    padding: 10px;
+}
+a{
+    text-transform: lowercase;
+}
